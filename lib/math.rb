@@ -1,25 +1,25 @@
 def addition(num1, num2)
-  sum = num2 + num1
+  sum = num1 + num2
   sum
 end
 
 def subtraction(num1, num2)
-  difference = num2 - num1
+  difference = num1 - num2
   difference
 end
 
 def division(num1, num2)
-  quotient = num2 / num1
+  quotient = num1 / num2
   quotient
 end
 
 def multiplication(num1, num2)
-  product = num2 * num1
+  product = num1 * num2
   product
 end
 
 def modulo(num1, num2)
-  mod = num2 % num1
+  mod = num1 % num2
   mod
 end
 
